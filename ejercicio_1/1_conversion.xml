@@ -1,1 +1,26 @@
-<!-- Aquí el contenido en xml (Borrar esta línea) -->
+<doctype alumnos>
+
+    <Alumno>
+        <nombre>
+        <Apellidos>
+        <Estudios>
+            <Curso>
+            <Ciclo>
+        <Hobbies>
+        <Asignaturas>
+            <Asignatura>
+                <Titulo>
+                <Profesor>
+            </Asignatura>
+            <Asignatura>
+                <Titulo>
+                <Profesor>
+            </Asignatura>
+            <Asignatura>    
+                <Titulo>
+                <Profesor>
+            </Asignatura>
+        </Asignature>
+    </Alumno>
+
+
